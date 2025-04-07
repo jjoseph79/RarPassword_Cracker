@@ -1,7 +1,3 @@
-Here's a comprehensive README.md file and a short "About" section for your GitHub repository:
-
----
-
 # Advanced RAR Password Cracker Pro
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
@@ -29,6 +25,11 @@ A powerful GUI application for recovering lost passwords of RAR archives using d
 - Tkinter (usually included with Python)
 - UnRAR executable (included in WinRAR installation on Windows)
 - Additional packages: `tkinterdnd2`, `winsound` (Windows only)
+
+## Use via exe
+- Download the latest exe file and open it.
+- Done
+- (If any warning appear, please just ignore. It's for first time. No need to any warry. If you have any doubt you can scan or remain turn on your antivirus protection)
 
 ## Installation
 
