@@ -1,5 +1,4 @@
-tkinterdnd2>=0.3.0
-winsound; sys_platform == 'win32'
 pyinstaller>=5.0  # For creating standalone executables
 pytest>=7.0  # For running tests
-tkinterdnd2==0.3.0
+tkinterdnd2>=0.4.3
+
